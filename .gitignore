@@ -1,0 +1,7 @@
+# build files
+out
+./out
+
+.env
+.env*
+.env/**
